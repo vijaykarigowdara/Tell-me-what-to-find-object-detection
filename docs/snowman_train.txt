@@ -1,0 +1,8 @@
+../project/JPEGImages/catat1756.jpg
+../project/JPEGImages/surfboardrd0964.jpg
+../project/JPEGImages/boatat0013.jpg
+../project/JPEGImages/kitete1214.jpg
+../project/JPEGImages/boatat0013_yolo_out_py_surf_detected.jpg
+../project/JPEGImages/boatat0013_yolo_out_py_boat_detected.jpg
+../project/JPEGImages/boatat0356.jpg
+../project/JPEGImages/tigerer0014.jpg

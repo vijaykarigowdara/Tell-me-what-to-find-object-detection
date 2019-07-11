@@ -1,0 +1,8 @@
+/Users/ars/AI/project/JPEGImages/boatat0013_yolo_out_py_boat_detected.jpg
+/Users/ars/AI/project/JPEGImages/boatat0013.jpg
+/Users/ars/AI/project/JPEGImages/tigerer0014.jpg
+/Users/ars/AI/project/JPEGImages/catat1756.jpg
+/Users/ars/AI/project/JPEGImages/boatat0356.jpg
+/Users/ars/AI/project/JPEGImages/boatat0013_yolo_out_py_surf_detected.jpg
+/Users/ars/AI/project/JPEGImages/kitete1214.jpg
+/Users/ars/AI/project/JPEGImages/surfboardrd0964.jpg
