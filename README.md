@@ -8,5 +8,8 @@ We have provided the code in the form of iPython notebook. Please download the n
 
 We have also provided our report and presentation for reference and you can find them in the repository.
 
+After implementation it chooses the image according to the text description given.
+
+<img src="docs/Screen Shot 2019-07-11 at 12.58.25 PM.png"> 
 
 Thanks
